@@ -187,9 +187,10 @@ In this blog, we discussed how to approach the image classification problem by i
 We can explore this work further by trying to improve the accuracy by using advanced Deep Learning algorithms like Convolutional Neural Networks (CNN).
 
 ## 15.	References
-- [1] https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
-- [2] https://www.tensorflow.org/tutorials/keras/classification
-- [3] https://www.tensorflow.org/api_docs/python/tf/keras/datasets/fashion_mnist/load_data
+
+- https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
+- https://www.tensorflow.org/tutorials/keras/classification
+- https://www.tensorflow.org/api_docs/python/tf/keras/datasets/fashion_mnist/load_data
 
 
 
